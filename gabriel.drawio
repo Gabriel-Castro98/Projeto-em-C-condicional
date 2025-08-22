@@ -1,0 +1,225 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Página-1" id="eyEc8gaFJQTJZHQmmrZR">
+    <mxGraphModel dx="2323" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-1" target="I8ifKVCSBqLhA_3DbYai-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;inicio&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-3" target="I8ifKVCSBqLhA_3DbYai-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-3" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;salario=0;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;numeroFilhos=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;mediaSalario=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;mediaFilhos=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;smaFilhos=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;maiorSalario=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;qtdSalario=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;contador=0;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="125" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-5" target="I8ifKVCSBqLhA_3DbYai-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-5" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;*informe o salario*&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-6" target="I8ifKVCSBqLhA_3DbYai-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-6" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;salario&lt;/font&gt;&lt;/font&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-9" target="I8ifKVCSBqLhA_3DbYai-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.793;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-9" target="I8ifKVCSBqLhA_3DbYai-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="448" />
+              <mxPoint x="260" y="480" />
+              <mxPoint x="370" y="480" />
+              <mxPoint x="370" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-9" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;salario &amp;gt;=0&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-11" target="I8ifKVCSBqLhA_3DbYai-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-11" value="informe a qtd de filhos" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-13" target="I8ifKVCSBqLhA_3DbYai-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-13" value="numeroFilhos" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="190" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-15" value="somaSalario =&lt;div&gt;somaSalario + salario&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="675" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-17" target="I8ifKVCSBqLhA_3DbYai-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-17" value="somaFilhos =&lt;div&gt;somaFilhos +&lt;/div&gt;&lt;div&gt;numeroFilhos&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="780" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-19" target="I8ifKVCSBqLhA_3DbYai-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-19" value="salario &amp;gt;&lt;div&gt;maiorSalario&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="765" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-21" target="I8ifKVCSBqLhA_3DbYai-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-21" value="maiorSalario =&lt;div&gt;salario&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="790" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1009.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="910" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-19" target="I8ifKVCSBqLhA_3DbYai-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-32" target="I8ifKVCSBqLhA_3DbYai-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1169.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-32" value="salario &amp;lt;=&lt;div&gt;100&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1000" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-34" target="I8ifKVCSBqLhA_3DbYai-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1269.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-34" value="qtdSalarioBaixo =&lt;div&gt;qtdSalarioBaixo + 1&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1145" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-36" target="I8ifKVCSBqLhA_3DbYai-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-32" target="I8ifKVCSBqLhA_3DbYai-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="1050" />
+              <mxPoint x="70" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-39" target="I8ifKVCSBqLhA_3DbYai-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-39" value="contador =&lt;div&gt;contador + 1&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1335" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-41" target="I8ifKVCSBqLhA_3DbYai-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-41" value="*informe o salario*" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-43" target="I8ifKVCSBqLhA_3DbYai-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="1540" />
+              <mxPoint x="-150" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-43" target="I8ifKVCSBqLhA_3DbYai-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-43" value="salario" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-46" target="I8ifKVCSBqLhA_3DbYai-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50.00000000000023" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-49" target="I8ifKVCSBqLhA_3DbYai-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50.00000000000023" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-49" value="mediaSalario =&lt;div&gt;somaSalario/contador&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1675" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-51" target="I8ifKVCSBqLhA_3DbYai-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50.00000000000023" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-51" value="mediaFilhos +&lt;div&gt;somaFilhos/contador&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50.00000000000023" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-53" value="percSalario =&amp;nbsp;&lt;div&gt;(qtdSalarioBaixo*100)&lt;/div&gt;&lt;div&gt;/contador&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1920" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8ifKVCSBqLhA_3DbYai-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50.00000000000023" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-55" value="&quot;a media de salario e:&quot;&lt;div&gt;+mediaSalario&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2040" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I8ifKVCSBqLhA_3DbYai-57" value="fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="2150" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
